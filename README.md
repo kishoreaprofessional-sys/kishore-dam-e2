@@ -1,4 +1,4 @@
-# kishore-dam-e2
+# kishore-dabm-e2
 # DABM-Exp-No.2-Exploratory-Data-Analysis-EDA
 
 ## Aim
